@@ -66,7 +66,7 @@ Used for:
 
 ```
 ├── parking_system.py
-├── documentation.pdf
+├── documentation
 └── README.md
 ```
 
