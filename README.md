@@ -110,7 +110,7 @@ This project was developed to bridge **theoretical computer science concepts** w
 
 ## 👤 Author
 
-[Your Name]
+Chew Kai Xuan, Fhang Ying Ying, Foo Jia Shuen, Nicholas Beh
 
 ---
 
